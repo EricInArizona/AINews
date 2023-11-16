@@ -1,4 +1,4 @@
-// Copyright Eric Chauvin 2021 - 2023.
+// Copyright Eric Chauvin 2023.
 
 
 
@@ -17,47 +17,20 @@
 
 
 #include "../CppBase/BasicTypes.h"
-// #include "../CppBase/FileIO.h"
-#include "../Network/SocketsApi.h"
-#include "../CryptoBase/Rsa.h"
-#include "../Crt/Garner.h"
-#include "../Crt/GarnerCrt.h"
 
 
 
 class MainApp
   {
   private:
-  // Constructors that take a while:
-  IntegerMath intMath;
-  SPrimes sPrimes; // makeArray in constructor.
-  Mod mod;
-  QuadRes quadRes;
-  MultInv multInv;
-  FindFacSm findFacSm; // Makes arrays here.
-  // FindFacQr findFacQr;
-  Rsa rsa;
-  CrtMath crtMath;
-  Garner garner;
-  GarnerCrt garnerCrt;
-
-
-  // The constructor for SocketsApi does
-  // WSAStartup() and the destructor does
-  // WSACleanup(). So the Windows dlls stay
-  // going for the life of this app.
-
-  SocketsApi socketsApi;
 
   public:
   inline static const char* getVersionStr( void )
     {
-    return "11/15/2023";
+    return "11/16/2023";
     }
 
   // Int32 mainLoop( Int32 argc, char* argv[] );
   Int32 mainLoop( void );
-  void testSockets( void );
-  void testTls( void );
 
   };

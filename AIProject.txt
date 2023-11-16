@@ -1,21 +1,21 @@
-buildfile	\Eric\Main\TlsClient\BuildProj.bat
-executablefile	\Eric\Main\TlsClient\TlsClient.exe
-projectdirectory	\Eric\Main\TlsClient
-recentfile1	\Eric\Main\TlsClient\MainApp.h
-recentfile10	\Eric\Main\Network\DerObjID.h
-recentfile11	\Eric\Main\Network\DerObjID.cpp
-recentfile12	\EricTwo\Rfc\Rfc5280.txt
-recentfile13	\Eric\Main\Network\Certificate.h
+buildfile	\Eric\Main\AI\BuildProj.bat
+executablefile	\Eric\Main\AI\ai.exe
+projectdirectory	\Eric\Main\AI
+recentfile1	\Eric\Main\AI\MainApp.h
 recentfile2	\Eric\Main\Docs\Notes.txt
-recentfile3	\Eric\Main\TlsClient\MainApp.cpp
-recentfile14	\Eric\Main\Network\Certificate.cpp
-recentfile4	\Eric\Main\Network\CertExten.h
-recentfile5	\Eric\Main\Network\CertExten.cpp
-recentfile6	\Eric\Main\Network\DerEncodeLoop.h
+recentfile3	\Eric\Main\AI\MainApp.cpp
+recentfile4	\Eric\Main\AI\BuildProj.bat
+recentfile5	
+recentfile6	
+recentfile7	
+recentfile8	
+recentfile9	
+recentfile10	
+recentfile11	
+recentfile12	
+recentfile13	
+recentfile14	
 recentfile15	
-recentfile7	\Eric\Main\Network\DerEncodeLoop.cpp
-recentfile8	\Eric\Main\Network\DerEncode.h
-recentfile9	\Eric\Main\Network\DerEncode.cpp
 recentfile16	
 recentfile17	
 recentfile18	
