@@ -1,0 +1,4 @@
+\Eric\Main\Network\CertExten.cpp:125:6: warning: variable 'critical' set but not used [-Wunused-but-set-variable]
+bool critical = false;
+     ^
+1 warning generated.

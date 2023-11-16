@@ -1,0 +1,33 @@
+buildfile	\Eric\Main\TlsClient\BuildProj.bat
+executablefile	\Eric\Main\TlsClient\TlsClient.exe
+projectdirectory	\Eric\Main\TlsClient
+recentfile1	\Eric\Main\TlsClient\MainApp.h
+recentfile10	\Eric\Main\Network\DerObjID.h
+recentfile11	\Eric\Main\Network\DerObjID.cpp
+recentfile12	\EricTwo\Rfc\Rfc5280.txt
+recentfile13	\Eric\Main\Network\Certificate.h
+recentfile2	\Eric\Main\Docs\Notes.txt
+recentfile3	\Eric\Main\TlsClient\MainApp.cpp
+recentfile14	\Eric\Main\Network\Certificate.cpp
+recentfile4	\Eric\Main\Network\CertExten.h
+recentfile5	\Eric\Main\Network\CertExten.cpp
+recentfile6	\Eric\Main\Network\DerEncodeLoop.h
+recentfile15	
+recentfile7	\Eric\Main\Network\DerEncodeLoop.cpp
+recentfile8	\Eric\Main\Network\DerEncode.h
+recentfile9	\Eric\Main\Network\DerEncode.cpp
+recentfile16	
+recentfile17	
+recentfile18	
+recentfile19	
+recentfile20	
+recentfile21	
+recentfile22	
+recentfile23	
+recentfile24	
+recentfile25	
+recentfile26	
+recentfile27	
+recentfile28	
+recentfile29	
+recentfile30	
