@@ -1,0 +1,7 @@
+buildfile	\Eric\Main\AINewsCpp\BuildProj.bat
+executablefile	\Eric\Main\AINewsCpp\ainewscpp.exe
+projectdirectory	\Eric\Main\AINewsCpp
+recentfile1	\Eric\Main\AINewsCpp\MainApp.h
+recentfile2	\Eric\Main\Docs\Notes.txt
+recentfile3	\Eric\Main\AINewsCpp\MainApp.cpp
+recentfile4	\Eric\Main\AINewsCpp\BuildProj.bat

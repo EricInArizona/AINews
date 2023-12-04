@@ -1,4 +1,5 @@
-// Copyright Eric Chauvin 2021 - 2022.
+// Copyright Eric Chauvin 2023.
+
 
 
 // This is licensed under the GNU General
@@ -8,6 +9,7 @@
 
 
 #include "../CppBase/BasicTypes.h"
+
 // In Windows use the linker option to set the
 // stack size.
 
