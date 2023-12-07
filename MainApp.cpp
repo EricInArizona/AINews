@@ -50,7 +50,7 @@ Signals::setupBadMemSignal();
 
 StIO::putS( "Initializing." );
 
- ===== Do stuff here.
+// ===== Do stuff here.
 
 
 StIO::putS( "End of the test." );
