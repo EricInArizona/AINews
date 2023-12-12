@@ -1,7 +1,0 @@
-buildfile	\Eric\Main\AI\BuildProj.bat
-executablefile	\Eric\Main\AI\ai.exe
-projectdirectory	\Eric\Main\AI
-recentfile1	\Eric\Main\AI\MainApp.h
-recentfile2	\Eric\Main\Docs\Notes.txt
-recentfile3	\Eric\Main\AI\MainApp.cpp
-recentfile4	\Eric\Main\AI\BuildProj.bat
