@@ -2,7 +2,7 @@
 
 rem 1> is standard out and 2> is standard error.
 
-cd \Eric\Main\AI
+cd \Eric\Main\AINews
 
 rem @CommandLine.txt
 rem Use -v to see how it gets called.
@@ -24,7 +24,7 @@ rem -lWs2_32.lib
 rem -lwsock32.lib
 rem -Wno-unsafe-buffer-usage
 
-C:\LLVM\bin\clang++ *.cpp \Eric\Main\WinApi\*.cpp \Eric\Main\CppBase\*.cpp \Eric\Main\CppMem\*.cpp -o ai.exe -Weverything -Wno-c++98-compat-pedantic -ftrapv -Ofast -Wl,-MAP -Wl,-STACK:10000000 2> Build.log
+C:\LLVM\bin\clang++ *.cpp \Eric\Main\WinApi\*.cpp \Eric\Main\CppBase\*.cpp \Eric\Main\CppMem\*.cpp -o ainews.exe -Weverything -Wno-c++98-compat-pedantic -ftrapv -Ofast -Wl,-MAP -Wl,-STACK:10000000 2> Build.log
 
 rem Show macros:
 rem Over 54,000 macros defined.
